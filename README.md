@@ -1,1 +1,1 @@
-My first readme
+# This is my learning of git and gitHub
